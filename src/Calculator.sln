@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphControl", "GraphContro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TraceLogging", "TraceLogging\TraceLogging.vcxproj", "{FC81FF41-02CD-4CD9-9BC5-45A1E39AC6ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorUI", "CalculatorUI\CalculatorUI.csproj", "{997936C4-25D3-4EFE-8E12-571020D88784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -191,6 +193,22 @@ Global
 		{FC81FF41-02CD-4CD9-9BC5-45A1E39AC6ED}.Release|x64.Build.0 = Release|x64
 		{FC81FF41-02CD-4CD9-9BC5-45A1E39AC6ED}.Release|x86.ActiveCfg = Release|Win32
 		{FC81FF41-02CD-4CD9-9BC5-45A1E39AC6ED}.Release|x86.Build.0 = Release|Win32
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Debug|ARM.ActiveCfg = Debug|ARM
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Debug|ARM.Build.0 = Debug|ARM
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Debug|ARM64.Build.0 = Debug|ARM64
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Debug|x64.ActiveCfg = Debug|x64
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Debug|x64.Build.0 = Debug|x64
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Debug|x86.ActiveCfg = Debug|x86
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Debug|x86.Build.0 = Debug|x86
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Release|ARM.ActiveCfg = Release|ARM
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Release|ARM.Build.0 = Release|ARM
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Release|ARM64.ActiveCfg = Release|ARM64
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Release|ARM64.Build.0 = Release|ARM64
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Release|x64.ActiveCfg = Release|x64
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Release|x64.Build.0 = Release|x64
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Release|x86.ActiveCfg = Release|x86
+		{997936C4-25D3-4EFE-8E12-571020D88784}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
